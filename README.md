@@ -1,2 +1,2 @@
 # wondermini.github.io
-미니의 학습 일기
+미니의 Swift 학습장
